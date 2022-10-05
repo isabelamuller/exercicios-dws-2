@@ -44,7 +44,7 @@ const nomeSemDestructuring = produto1.nome;
 const fotoPrincipalSemDestructuring = produto1.fotos.fotoPrincipal;
 
 // Inicie o destructuring na linha abaixo ->
-//resposta:
+//resposta: NAO CONSEGUI FZR
 const [{ principalFoto }, nomeProduto] = produto1.fotos && produto1.nome
 console.log(principalFoto)
 console.log(nomeProduto)
@@ -72,7 +72,7 @@ const segundoProduto = {
 const fotoDoPrimeiroProdutoSemDestructuring = primeiroProduto.fotos.fotoPrincipal;
 const fotoDoSegundoProdutoSemDestructuring = segundoProduto.fotos.fotoPrincipal;
 
-  // Inicie o destructuring na linha abaixo ->
+// Inicie o destructuring na linha abaixo ->
 
-
+//resposta: NAO CONSEGUI FZR
 
