@@ -1,0 +1,902 @@
+[
+  {
+    "id": 172751304,
+    "name": "2018-ctf-game",
+    "description": "Repo containing links to all CTF Challenges used in the 2018 MITRE CTF. http://mitrecyberacademy.org/",
+    "url": "https://api.github.com/repos/caiorrs/2018-ctf-game",
+    "created_at": "2019-02-26T16:47:23Z",
+    "updated_at": "2019-02-26T16:47:26Z",
+    "language": null
+  },
+  {
+    "id": 91497973,
+    "name": "activity-stream",
+    "description": " MVP prototype add-on for activity streams",
+    "url": "https://api.github.com/repos/caiorrs/activity-stream",
+    "created_at": "2017-05-16T19:46:45Z",
+    "updated_at": "2017-05-16T19:46:48Z",
+    "language": "JavaScript"
+  },
+  {
+    "id": 99737684,
+    "name": "AKT_Profiles",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/AKT_Profiles",
+    "created_at": "2017-08-08T21:28:50Z",
+    "updated_at": "2017-08-08T21:28:51Z",
+    "language": "Shell"
+  },
+  {
+    "id": 94565013,
+    "name": "algorithms",
+    "description": "Minimal examples of data structures and algorithms in Python",
+    "url": "https://api.github.com/repos/caiorrs/algorithms",
+    "created_at": "2017-06-16T17:05:13Z",
+    "updated_at": "2017-06-16T17:05:14Z",
+    "language": "Python"
+  },
+  {
+    "id": 131403223,
+    "name": "AmazMod",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/AmazMod",
+    "created_at": "2018-04-28T11:19:06Z",
+    "updated_at": "2018-11-28T22:47:13Z",
+    "language": "Java"
+  },
+  {
+    "id": 98024046,
+    "name": "android",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/android",
+    "created_at": "2017-07-22T10:23:27Z",
+    "updated_at": "2017-07-22T10:23:28Z",
+    "language": "Shell"
+  },
+  {
+    "id": 95986741,
+    "name": "android-material-drawer-template",
+    "description": "An Android template with navigation drawer for material design",
+    "url": "https://api.github.com/repos/caiorrs/android-material-drawer-template",
+    "created_at": "2017-07-01T20:43:55Z",
+    "updated_at": "2017-07-01T20:43:57Z",
+    "language": "Java"
+  },
+  {
+    "id": 132973028,
+    "name": "android-navigation",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/android-navigation",
+    "created_at": "2018-05-11T01:28:22Z",
+    "updated_at": "2018-05-11T01:28:24Z",
+    "language": "Kotlin"
+  },
+  {
+    "id": 90566976,
+    "name": "android-periodic-table",
+    "description": "An open source periodic table for Android",
+    "url": "https://api.github.com/repos/caiorrs/android-periodic-table",
+    "created_at": "2017-05-07T22:55:16Z",
+    "updated_at": "2017-05-07T22:55:18Z",
+    "language": "Java"
+  },
+  {
+    "id": 102157306,
+    "name": "AndroidAssetStudio",
+    "description": "A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.",
+    "url": "https://api.github.com/repos/caiorrs/AndroidAssetStudio",
+    "created_at": "2017-09-01T22:22:48Z",
+    "updated_at": "2017-09-01T22:22:50Z",
+    "language": "JavaScript"
+  },
+  {
+    "id": 90078206,
+    "name": "android_bootable_recovery",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/android_bootable_recovery",
+    "created_at": "2017-05-02T21:08:54Z",
+    "updated_at": "2017-05-02T21:08:59Z",
+    "language": "C"
+  },
+  {
+    "id": 90076929,
+    "name": "android_device_lge_hammerhead",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/android_device_lge_hammerhead",
+    "created_at": "2017-05-02T20:52:23Z",
+    "updated_at": "2017-05-02T20:52:25Z",
+    "language": "C++"
+  },
+  {
+    "id": 90078819,
+    "name": "android_device_lge_hammerheadcaf",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/android_device_lge_hammerheadcaf",
+    "created_at": "2017-05-02T21:17:24Z",
+    "updated_at": "2017-05-02T21:17:27Z",
+    "language": "C++"
+  },
+  {
+    "id": 99737783,
+    "name": "android_device_oneplus_cheeseburger",
+    "description": "For building TWRP for OnePlus 5 ONLY",
+    "url": "https://api.github.com/repos/caiorrs/android_device_oneplus_cheeseburger",
+    "created_at": "2017-08-08T21:30:10Z",
+    "updated_at": "2017-08-08T21:30:12Z",
+    "language": "Makefile"
+  },
+  {
+    "id": 99737774,
+    "name": "android_device_oneplus_oneplus3",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/android_device_oneplus_oneplus3",
+    "created_at": "2017-08-08T21:30:04Z",
+    "updated_at": "2017-08-08T21:30:05Z",
+    "language": "Makefile"
+  },
+  {
+    "id": 99737779,
+    "name": "android_device_oneplus_oneplus3t",
+    "description": "TWRP device tree for OnePlus 3T (oneplus3t)",
+    "url": "https://api.github.com/repos/caiorrs/android_device_oneplus_oneplus3t",
+    "created_at": "2017-08-08T21:30:08Z",
+    "updated_at": "2017-08-08T21:30:10Z",
+    "language": "Makefile"
+  },
+  {
+    "id": 95492971,
+    "name": "android_device_samsung_serranodsdd",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/android_device_samsung_serranodsdd",
+    "created_at": "2017-06-26T21:57:58Z",
+    "updated_at": "2017-06-26T21:58:00Z",
+    "language": "Shell"
+  },
+  {
+    "id": 90076940,
+    "name": "android_kernel_lge_hammerhead",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/android_kernel_lge_hammerhead",
+    "created_at": "2017-05-02T20:52:27Z",
+    "updated_at": "2017-05-02T20:55:36Z",
+    "language": "C"
+  },
+  {
+    "id": 90078730,
+    "name": "android_kernel_lge_hammerhead-1",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/android_kernel_lge_hammerhead-1",
+    "created_at": "2017-05-02T21:16:07Z",
+    "updated_at": "2017-05-02T21:19:15Z",
+    "language": "C"
+  },
+  {
+    "id": 90079141,
+    "name": "android_kernel_lge_hammerheadcaf",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/android_kernel_lge_hammerheadcaf",
+    "created_at": "2017-05-02T21:21:34Z",
+    "updated_at": "2017-05-02T21:24:34Z",
+    "language": "C"
+  },
+  {
+    "id": 93251919,
+    "name": "android_packages_apps_SnapdragonCamera",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/android_packages_apps_SnapdragonCamera",
+    "created_at": "2017-06-03T14:06:00Z",
+    "updated_at": "2017-06-03T14:06:04Z",
+    "language": "Java"
+  },
+  {
+    "id": 169601369,
+    "name": "angular-crash-course",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/angular-crash-course",
+    "created_at": "2019-02-07T16:18:03Z",
+    "updated_at": "2019-02-07T16:18:53Z",
+    "language": "TypeScript"
+  },
+  {
+    "id": 169274807,
+    "name": "angular-tutorial",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/angular-tutorial",
+    "created_at": "2019-02-05T16:41:00Z",
+    "updated_at": "2019-02-06T17:05:17Z",
+    "language": "TypeScript"
+  },
+  {
+    "id": 192396368,
+    "name": "asp_net_mvc_movies",
+    "description": "Using asp.net webforms MVC",
+    "url": "https://api.github.com/repos/caiorrs/asp_net_mvc_movies",
+    "created_at": "2019-06-17T18:13:00Z",
+    "updated_at": "2019-06-17T18:15:25Z",
+    "language": "HTML"
+  },
+  {
+    "id": 110470393,
+    "name": "asuswrt-merlin",
+    "description": "Enhanced version of Asus's router firmware (Asuswrt)",
+    "url": "https://api.github.com/repos/caiorrs/asuswrt-merlin",
+    "created_at": "2017-11-12T21:23:43Z",
+    "updated_at": "2017-11-12T21:23:42Z",
+    "language": null
+  },
+  {
+    "id": 110470455,
+    "name": "asuswrt-merlin.382",
+    "description": "Third party firmware for Asus routers (newer codebase)",
+    "url": "https://api.github.com/repos/caiorrs/asuswrt-merlin.382",
+    "created_at": "2017-11-12T21:24:27Z",
+    "updated_at": "2017-11-12T21:24:24Z",
+    "language": null
+  },
+  {
+    "id": 152616199,
+    "name": "Awesome-Hacking",
+    "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+    "url": "https://api.github.com/repos/caiorrs/Awesome-Hacking",
+    "created_at": "2018-10-11T15:41:09Z",
+    "updated_at": "2018-10-11T15:41:11Z",
+    "language": null
+  },
+  {
+    "id": 198905371,
+    "name": "AwesomeProject",
+    "description": "Exercício para seleção 4all",
+    "url": "https://api.github.com/repos/caiorrs/AwesomeProject",
+    "created_at": "2019-07-25T21:48:55Z",
+    "updated_at": "2019-07-26T11:48:26Z",
+    "language": "Objective-C"
+  },
+  {
+    "id": 132967350,
+    "name": "BatteryChargeLimit",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/BatteryChargeLimit",
+    "created_at": "2018-05-11T00:10:06Z",
+    "updated_at": "2018-05-11T00:40:45Z",
+    "language": "Kotlin"
+  },
+  {
+    "id": 90421906,
+    "name": "BetterBatteryStats",
+    "description": "An attempt to provide advanced battery stats for Android",
+    "url": "https://api.github.com/repos/caiorrs/BetterBatteryStats",
+    "created_at": "2017-05-05T22:38:18Z",
+    "updated_at": "2018-05-11T02:04:17Z",
+    "language": "Java"
+  },
+  {
+    "id": 88334844,
+    "name": "bioinformatics",
+    "description": ":microscope: Path to a free self-taught education in Bioinformatics!",
+    "url": "https://api.github.com/repos/caiorrs/bioinformatics",
+    "created_at": "2017-04-15T08:38:01Z",
+    "updated_at": "2017-04-15T01:04:04Z",
+    "language": null
+  },
+  {
+    "id": 96144479,
+    "name": "BucketDrops",
+    "description": "BucketDrops is an app that lets you set life goals and lets you mark which goals you accomplished as time elapses. So don't forget to dream all you want and keep a track of your awesome dreams as well.",
+    "url": "https://api.github.com/repos/caiorrs/BucketDrops",
+    "created_at": "2017-07-03T19:34:51Z",
+    "updated_at": "2017-07-03T19:34:52Z",
+    "language": "Java"
+  },
+  {
+    "id": 88334725,
+    "name": "computer-science",
+    "description": ":mortar_board: Path to a free self-taught education in Computer Science!",
+    "url": "https://api.github.com/repos/caiorrs/computer-science",
+    "created_at": "2017-04-15T08:35:51Z",
+    "updated_at": "2021-08-10T13:30:20Z",
+    "language": null
+  },
+  {
+    "id": 177196844,
+    "name": "CppCoreGuidelines",
+    "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+    "url": "https://api.github.com/repos/caiorrs/CppCoreGuidelines",
+    "created_at": "2019-03-22T19:17:06Z",
+    "updated_at": "2019-03-22T19:17:08Z",
+    "language": "Python"
+  },
+  {
+    "id": 90078509,
+    "name": "CrazySuperKernel-CM14.1-hammerhead",
+    "description": "12 Dec. CM Update",
+    "url": "https://api.github.com/repos/caiorrs/CrazySuperKernel-CM14.1-hammerhead",
+    "created_at": "2017-05-02T21:13:12Z",
+    "updated_at": "2017-05-02T21:16:05Z",
+    "language": "C"
+  },
+  {
+    "id": 88334836,
+    "name": "data-science",
+    "description": ":bar_chart: Path to a free self-taught education in Data Science!",
+    "url": "https://api.github.com/repos/caiorrs/data-science",
+    "created_at": "2017-04-15T08:37:57Z",
+    "updated_at": "2017-04-15T08:14:35Z",
+    "language": null
+  },
+  {
+    "id": 90080651,
+    "name": "device_lge_hammerhead",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/device_lge_hammerhead",
+    "created_at": "2017-05-02T21:43:30Z",
+    "updated_at": "2017-05-02T21:43:35Z",
+    "language": "C++"
+  },
+  {
+    "id": 149171181,
+    "name": "django-deployment-example",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/django-deployment-example",
+    "created_at": "2018-09-17T18:38:21Z",
+    "updated_at": "2018-09-19T12:31:54Z",
+    "language": "Python"
+  },
+  {
+    "id": 181167021,
+    "name": "djangogirls-tutorial",
+    "description": "Tutorial DjangoGirls",
+    "url": "https://api.github.com/repos/caiorrs/djangogirls-tutorial",
+    "created_at": "2019-04-13T12:21:47Z",
+    "updated_at": "2019-04-13T12:25:12Z",
+    "language": "Python"
+  },
+  {
+    "id": 149494832,
+    "name": "django_blog",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/django_blog",
+    "created_at": "2018-09-19T18:27:48Z",
+    "updated_at": "2018-09-19T18:28:53Z",
+    "language": null
+  },
+  {
+    "id": 110470165,
+    "name": "dsl-ac88u-custom",
+    "description": "Custom firmware for Asus DSL-AC88U router.",
+    "url": "https://api.github.com/repos/caiorrs/dsl-ac88u-custom",
+    "created_at": "2017-11-12T21:20:16Z",
+    "updated_at": "2017-11-12T21:20:49Z",
+    "language": "C"
+  },
+  {
+    "id": 96470522,
+    "name": "EasyLock",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/EasyLock",
+    "created_at": "2017-07-06T20:44:30Z",
+    "updated_at": "2017-07-06T20:44:32Z",
+    "language": "Java"
+  },
+  {
+    "id": 169275123,
+    "name": "electron-BTC",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/electron-BTC",
+    "created_at": "2019-02-05T16:43:01Z",
+    "updated_at": "2019-02-05T16:48:48Z",
+    "language": "JavaScript"
+  },
+  {
+    "id": 90078022,
+    "name": "ElementalX-N5",
+    "description": "ElementalX for Nexus 5",
+    "url": "https://api.github.com/repos/caiorrs/ElementalX-N5",
+    "created_at": "2017-05-02T21:06:28Z",
+    "updated_at": "2017-05-02T21:09:38Z",
+    "language": "C"
+  },
+  {
+    "id": 199535786,
+    "name": "experimentos-react-native",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/experimentos-react-native",
+    "created_at": "2019-07-29T22:40:17Z",
+    "updated_at": "2019-07-29T22:40:46Z",
+    "language": "JavaScript"
+  },
+  {
+    "id": 93197343,
+    "name": "FastHub",
+    "description": "FastHub the ultimate GitHub client for Android.",
+    "url": "https://api.github.com/repos/caiorrs/FastHub",
+    "created_at": "2017-06-02T19:25:56Z",
+    "updated_at": "2018-05-16T03:35:39Z",
+    "language": "Java"
+  },
+  {
+    "id": 193341985,
+    "name": "field-manager",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/field-manager",
+    "created_at": "2019-06-23T11:51:55Z",
+    "updated_at": "2019-06-27T17:30:50Z",
+    "language": "C#"
+  },
+  {
+    "id": 95309525,
+    "name": "firebase-jobdispatcher-android",
+    "description": "The Firebase JobDispatcher is a library for scheduling background jobs in your Android app. It provides a JobScheduler-compatible API that works on all recent versions of Android (API level 9+) that have Google Play services installed.",
+    "url": "https://api.github.com/repos/caiorrs/firebase-jobdispatcher-android",
+    "created_at": "2017-06-24T16:32:18Z",
+    "updated_at": "2020-04-07T21:09:29Z",
+    "language": "Java"
+  },
+  {
+    "id": 95309514,
+    "name": "FirebaseUI-Android",
+    "description": "UI bindings for Firebase",
+    "url": "https://api.github.com/repos/caiorrs/FirebaseUI-Android",
+    "created_at": "2017-06-24T16:32:07Z",
+    "updated_at": "2017-06-24T16:32:10Z",
+    "language": "Java"
+  },
+  {
+    "id": 187262580,
+    "name": "flask-tutorial",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/flask-tutorial",
+    "created_at": "2019-05-17T18:19:47Z",
+    "updated_at": "2019-05-17T18:39:47Z",
+    "language": "Python"
+  },
+  {
+    "id": 145619627,
+    "name": "free-tech-ebooks-from-packtpub",
+    "description": "A collection of free ebooks from Packt Publishing [Regularly Updated]",
+    "url": "https://api.github.com/repos/caiorrs/free-tech-ebooks-from-packtpub",
+    "created_at": "2018-08-21T21:06:57Z",
+    "updated_at": "2018-09-15T03:18:42Z",
+    "language": null
+  },
+  {
+    "id": 68740171,
+    "name": "FreeCodeCamp",
+    "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+    "url": "https://api.github.com/repos/caiorrs/FreeCodeCamp",
+    "created_at": "2016-09-20T18:13:25Z",
+    "updated_at": "2018-09-15T17:20:06Z",
+    "language": "JavaScript"
+  },
+  {
+    "id": 95309298,
+    "name": "friendlychat",
+    "description": "The source for the Firebase codelab for building a cross-platform chat app",
+    "url": "https://api.github.com/repos/caiorrs/friendlychat",
+    "created_at": "2017-06-24T16:27:58Z",
+    "updated_at": "2017-06-24T16:28:00Z",
+    "language": "JavaScript"
+  },
+  {
+    "id": 95309079,
+    "name": "friendlypix",
+    "description": "FriendlyPix is a cross-platform Firebase example app",
+    "url": "https://api.github.com/repos/caiorrs/friendlypix",
+    "created_at": "2017-06-24T16:24:09Z",
+    "updated_at": "2020-07-24T12:51:32Z",
+    "language": "Java"
+  },
+  {
+    "id": 88334849,
+    "name": "game-development",
+    "description": ":space_invader: Path to a free self-taught education in Game Development!",
+    "url": "https://api.github.com/repos/caiorrs/game-development",
+    "created_at": "2017-04-15T08:38:07Z",
+    "updated_at": "2017-04-11T18:55:59Z",
+    "language": null
+  },
+  {
+    "id": 177161039,
+    "name": "Game-GUI",
+    "description": "Game GUI is a skin-able GL based Widget Class for Games",
+    "url": "https://api.github.com/repos/caiorrs/Game-GUI",
+    "created_at": "2019-03-22T15:03:40Z",
+    "updated_at": "2019-03-22T15:03:46Z",
+    "language": "C"
+  },
+  {
+    "id": 95309519,
+    "name": "geofire-java",
+    "description": "GeoFire for Java - Realtime location queries with Firebase",
+    "url": "https://api.github.com/repos/caiorrs/geofire-java",
+    "created_at": "2017-06-24T16:32:14Z",
+    "updated_at": "2017-06-24T16:32:16Z",
+    "language": "Java"
+  },
+  {
+    "id": 90468806,
+    "name": "gitignore",
+    "description": "A collection of useful .gitignore templates",
+    "url": "https://api.github.com/repos/caiorrs/gitignore",
+    "created_at": "2017-05-06T14:32:25Z",
+    "updated_at": "2017-05-06T14:18:37Z",
+    "language": null
+  },
+  {
+    "id": 96925059,
+    "name": "Grafos2017_1",
+    "description": "Trabalho para a disciplina de Análise Combinatória e Teoria dos Grafos de 2017/1",
+    "url": "https://api.github.com/repos/caiorrs/Grafos2017_1",
+    "created_at": "2017-07-11T18:39:39Z",
+    "updated_at": "2017-07-11T18:39:41Z",
+    "language": "C"
+  },
+  {
+    "id": 90076664,
+    "name": "hammerhead",
+    "description": "Nexus 5 - Common tree for stock Marshmallow + custom roms based on anything starting with Android Nougat",
+    "url": "https://api.github.com/repos/caiorrs/hammerhead",
+    "created_at": "2017-05-02T20:48:58Z",
+    "updated_at": "2017-05-02T20:52:03Z",
+    "language": "C"
+  },
+  {
+    "id": 90077204,
+    "name": "hammerhead-1",
+    "description": "blu_spark kernel for Nexus 5",
+    "url": "https://api.github.com/repos/caiorrs/hammerhead-1",
+    "created_at": "2017-05-02T20:56:00Z",
+    "updated_at": "2017-05-02T20:58:46Z",
+    "language": "C"
+  },
+  {
+    "id": 90078410,
+    "name": "hammerheadcaf_kernel",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/hammerheadcaf_kernel",
+    "created_at": "2017-05-02T21:11:41Z",
+    "updated_at": "2017-05-02T21:14:34Z",
+    "language": "C"
+  },
+  {
+    "id": 90077516,
+    "name": "hammerhead_nkernel",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/hammerhead_nkernel",
+    "created_at": "2017-05-02T21:00:16Z",
+    "updated_at": "2017-05-02T21:03:27Z",
+    "language": "C"
+  },
+  {
+    "id": 90530228,
+    "name": "hello-world",
+    "description": "Hello World do Git It Electron",
+    "url": "https://api.github.com/repos/caiorrs/hello-world",
+    "created_at": "2017-05-07T12:14:36Z",
+    "updated_at": "2017-05-07T12:14:36Z",
+    "language": null
+  },
+  {
+    "id": 88334841,
+    "name": "help",
+    "description": ":grey_question: Help files for the OSS University",
+    "url": "https://api.github.com/repos/caiorrs/help",
+    "created_at": "2017-04-15T08:37:59Z",
+    "updated_at": "2020-08-30T23:17:58Z",
+    "language": null
+  },
+  {
+    "id": 90077821,
+    "name": "kernel_lge_hammerhead",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/kernel_lge_hammerhead",
+    "created_at": "2017-05-02T21:04:12Z",
+    "updated_at": "2017-05-02T21:07:17Z",
+    "language": "C"
+  },
+  {
+    "id": 90080646,
+    "name": "kernel_lge_hammerhead-1",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/kernel_lge_hammerhead-1",
+    "created_at": "2017-05-02T21:43:26Z",
+    "updated_at": "2017-05-02T21:50:18Z",
+    "language": "C"
+  },
+  {
+    "id": 103036830,
+    "name": "knife_system",
+    "description": "Script em bash para facilitar e automatizar algumas tarefas no linux confira a documentação",
+    "url": "https://api.github.com/repos/caiorrs/knife_system",
+    "created_at": "2017-09-10T14:42:45Z",
+    "updated_at": "2017-09-10T14:42:46Z",
+    "language": "Shell"
+  },
+  {
+    "id": 97774338,
+    "name": "Lawnchair",
+    "description": "What in launcher creation?! - Customizable Pixel Style Launcher",
+    "url": "https://api.github.com/repos/caiorrs/Lawnchair",
+    "created_at": "2017-07-20T00:51:44Z",
+    "updated_at": "2018-05-11T02:40:21Z",
+    "language": "Java"
+  },
+  {
+    "id": 105946437,
+    "name": "Leaflet",
+    "description": " :leaves: JavaScript library for mobile-friendly interactive maps",
+    "url": "https://api.github.com/repos/caiorrs/Leaflet",
+    "created_at": "2017-10-05T22:24:41Z",
+    "updated_at": "2017-10-05T22:24:45Z",
+    "language": "JavaScript"
+  },
+  {
+    "id": 175032007,
+    "name": "learning-cpp",
+    "description": "Learning CPP based on https://www.learncpp.com/cpp-tutorial and using VSCode",
+    "url": "https://api.github.com/repos/caiorrs/learning-cpp",
+    "created_at": "2019-03-11T15:41:33Z",
+    "updated_at": "2019-04-24T18:25:50Z",
+    "language": "C++"
+  },
+  {
+    "id": 169612273,
+    "name": "learning-sass",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/learning-sass",
+    "created_at": "2019-02-07T17:27:58Z",
+    "updated_at": "2019-02-13T12:01:33Z",
+    "language": "CSS"
+  },
+  {
+    "id": 94707692,
+    "name": "libgdx",
+    "description": "Desktop/Android/HTML5/iOS Java game development framework",
+    "url": "https://api.github.com/repos/caiorrs/libgdx",
+    "created_at": "2017-06-18T19:13:55Z",
+    "updated_at": "2017-06-18T19:14:15Z",
+    "language": "Java"
+  },
+  {
+    "id": 96548858,
+    "name": "MaskFormatter",
+    "description": "An Android Library to format Strings usings masks. Can be used with TextWatcher.",
+    "url": "https://api.github.com/repos/caiorrs/MaskFormatter",
+    "created_at": "2017-07-07T14:55:15Z",
+    "updated_at": "2017-07-07T14:55:16Z",
+    "language": "Java"
+  },
+  {
+    "id": 94716834,
+    "name": "Material-Animations",
+    "description": "Android Transition animations explanation with examples.",
+    "url": "https://api.github.com/repos/caiorrs/Material-Animations",
+    "created_at": "2017-06-18T22:34:14Z",
+    "updated_at": "2017-06-18T22:34:15Z",
+    "language": "Java"
+  },
+  {
+    "id": 95991274,
+    "name": "material-design-icons",
+    "description": "Material Design icons by Google",
+    "url": "https://api.github.com/repos/caiorrs/material-design-icons",
+    "created_at": "2017-07-01T22:48:24Z",
+    "updated_at": "2017-07-03T19:36:55Z",
+    "language": "CSS"
+  },
+  {
+    "id": 95986739,
+    "name": "material-drawer",
+    "description": "Custom drawer implementation for Material design apps.",
+    "url": "https://api.github.com/repos/caiorrs/material-drawer",
+    "created_at": "2017-07-01T20:43:53Z",
+    "updated_at": "2017-07-01T20:43:55Z",
+    "language": "Java"
+  },
+  {
+    "id": 95963478,
+    "name": "MaterialDrawer",
+    "description": "The flexible, easy to use, all in one drawer library for your Android project.",
+    "url": "https://api.github.com/repos/caiorrs/MaterialDrawer",
+    "created_at": "2017-07-01T12:40:21Z",
+    "updated_at": "2017-07-01T13:32:02Z",
+    "language": "Java"
+  },
+  {
+    "id": 220856057,
+    "name": "MDGP",
+    "description": "Trabalho de Otimização Combinatoria 2019.2 MDGP",
+    "url": "https://api.github.com/repos/caiorrs/MDGP",
+    "created_at": "2019-11-10T21:50:49Z",
+    "updated_at": "2019-11-26T22:06:53Z",
+    "language": "Python"
+  },
+  {
+    "id": 91497966,
+    "name": "min-vid",
+    "description": "Popout video player in Firefox",
+    "url": "https://api.github.com/repos/caiorrs/min-vid",
+    "created_at": "2017-05-16T19:46:41Z",
+    "updated_at": "2017-05-16T19:46:42Z",
+    "language": "JavaScript"
+  },
+  {
+    "id": 336424338,
+    "name": "moviesTest",
+    "description": "ilia job test",
+    "url": "https://api.github.com/repos/caiorrs/moviesTest",
+    "created_at": "2021-02-06T00:46:51Z",
+    "updated_at": "2021-02-07T18:15:11Z",
+    "language": "JavaScript"
+  },
+  {
+    "id": 94694349,
+    "name": "mycroft-core",
+    "description": "Mycroft Core, the Mycroft Artificial Intelligence platform.",
+    "url": "https://api.github.com/repos/caiorrs/mycroft-core",
+    "created_at": "2017-06-18T15:01:47Z",
+    "updated_at": "2017-06-18T15:01:49Z",
+    "language": "Python"
+  },
+  {
+    "id": 151695922,
+    "name": "navalha",
+    "description": "navalha - puredata patch",
+    "url": "https://api.github.com/repos/caiorrs/navalha",
+    "created_at": "2018-10-05T09:04:33Z",
+    "updated_at": "2018-10-05T09:04:37Z",
+    "language": null
+  },
+  {
+    "id": 95986740,
+    "name": "NavigationDrawer-MaterialDesign",
+    "description": "Library Navigation drawer material design",
+    "url": "https://api.github.com/repos/caiorrs/NavigationDrawer-MaterialDesign",
+    "created_at": "2017-07-01T20:43:54Z",
+    "updated_at": "2017-07-01T20:43:56Z",
+    "language": "Java"
+  },
+  {
+    "id": 90391901,
+    "name": "NekoCollector",
+    "description": "Android Nougat's Easter Egg for older android versions",
+    "url": "https://api.github.com/repos/caiorrs/NekoCollector",
+    "created_at": "2017-05-05T15:43:44Z",
+    "updated_at": "2017-05-05T15:43:46Z",
+    "language": "Java"
+  },
+  {
+    "id": 39395799,
+    "name": "NodeCoffeeSample",
+    "description": null,
+    "url": "https://api.github.com/repos/caiorrs/NodeCoffeeSample",
+    "created_at": "2015-07-20T16:40:03Z",
+    "updated_at": "2015-07-20T16:40:03Z",
+    "language": "CoffeeScript"
+  },
+  {
+    "id": 95210203,
+    "name": "Nordic-Thingy52-FW",
+    "description": "Nordic Thingy:52 software development kit. This kit is designed to assist users in developing their own custom firmware for Thingy. Please see http://www.nordicsemi.com/thingy for the latest news and software releases.",
+    "url": "https://api.github.com/repos/caiorrs/Nordic-Thingy52-FW",
+    "created_at": "2017-06-23T10:26:46Z",
+    "updated_at": "2017-06-23T10:26:49Z",
+    "language": "C"
+  },
+  {
+    "id": 90469470,
+    "name": "open-enrollment-classes-introduction-to-github",
+    "description": "open-enrollment-classes-introduction-to-github created by GitHub Classroom",
+    "url": "https://api.github.com/repos/caiorrs/open-enrollment-classes-introduction-to-github",
+    "created_at": "2017-05-06T14:43:03Z",
+    "updated_at": "2017-05-06T14:43:06Z",
+    "language": "Ruby"
+  },
+  {
+    "id": 145891183,
+    "name": "open-source-email",
+    "description": "FairEmail - open source, privacy friendly email app",
+    "url": "https://api.github.com/repos/caiorrs/open-source-email",
+    "created_at": "2018-08-23T18:16:15Z",
+    "updated_at": "2018-08-23T18:16:18Z",
+    "language": "Java"
+  },
+  {
+    "id": 26017739,
+    "name": "OpenNI",
+    "description": "OpenNI",
+    "url": "https://api.github.com/repos/caiorrs/OpenNI",
+    "created_at": "2014-10-31T13:43:24Z",
+    "updated_at": "2014-10-31T13:43:16Z",
+    "language": null
+  },
+  {
+    "id": 88334852,
+    "name": "ossu-api",
+    "description": ":back: :end: Open Source Society University API server",
+    "url": "https://api.github.com/repos/caiorrs/ossu-api",
+    "created_at": "2017-04-15T08:38:09Z",
+    "updated_at": "2020-08-30T23:24:06Z",
+    "language": "JavaScript"
+  },
+  {
+    "id": 88334848,
+    "name": "ossu-client",
+    "description": ":computer: Web UI for Open Source Society University",
+    "url": "https://api.github.com/repos/caiorrs/ossu-client",
+    "created_at": "2017-04-15T08:38:04Z",
+    "updated_at": "2020-08-30T23:20:12Z",
+    "language": "JavaScript"
+  },
+  {
+    "id": 88334854,
+    "name": "ossu-ui",
+    "description": ":computer: Open Source Society University client-side application",
+    "url": "https://api.github.com/repos/caiorrs/ossu-ui",
+    "created_at": "2017-04-15T08:38:11Z",
+    "updated_at": "2020-08-30T23:23:36Z",
+    "language": "CSS"
+  },
+  {
+    "id": 90531116,
+    "name": "patchwork",
+    "description": "All the Git-it Workshop completers! ",
+    "url": "https://api.github.com/repos/caiorrs/patchwork",
+    "created_at": "2017-05-07T12:31:23Z",
+    "updated_at": "2017-05-07T12:31:33Z",
+    "language": "HTML"
+  },
+  {
+    "id": 177196811,
+    "name": "PDCurses",
+    "description": "PDCurses - a curses library for environments that don't fit the termcap/terminfo model.",
+    "url": "https://api.github.com/repos/caiorrs/PDCurses",
+    "created_at": "2019-03-22T19:16:47Z",
+    "updated_at": "2019-03-22T19:16:49Z",
+    "language": "C"
+  },
+  {
+    "id": 90078764,
+    "name": "platform_kernel_lge_hammerhead",
+    "description": "Linux 3.4.x ",
+    "url": "https://api.github.com/repos/caiorrs/platform_kernel_lge_hammerhead",
+    "created_at": "2017-05-02T21:16:32Z",
+    "updated_at": "2017-05-02T21:22:42Z",
+    "language": "C"
+  },
+  {
+    "id": 97889740,
+    "name": "platform_manifest",
+    "description": "Android for Raspberry Pi",
+    "url": "https://api.github.com/repos/caiorrs/platform_manifest",
+    "created_at": "2017-07-21T00:38:16Z",
+    "updated_at": "2017-07-18T19:49:25Z",
+    "language": null
+  },
+  {
+    "id": 145628024,
+    "name": "ProgrameFacil",
+    "description": "Codigos usados nos videos do canal Prograe Facil",
+    "url": "https://api.github.com/repos/caiorrs/ProgrameFacil",
+    "created_at": "2018-08-21T22:56:51Z",
+    "updated_at": "2018-08-21T22:56:54Z",
+    "language": "Python"
+  },
+  {
+    "id": 90497178,
+    "name": "Projeto_Socaltur",
+    "description": "App para ver horários de ônibus da Cidade de Ivoti e Região",
+    "url": "https://api.github.com/repos/caiorrs/Projeto_Socaltur",
+    "created_at": "2017-05-06T23:33:41Z",
+    "updated_at": "2017-05-06T23:33:51Z",
+    "language": "Java"
+  },
+  {
+    "id": 91497948,
+    "name": "pulse",
+    "description": "We're building the next generation of Firefox, and we're focusing on real-world speed and performance. Pulse lets you give our engineers feedback about your experience on websites that work well in Firefox and on websites that don't.",
+    "url": "https://api.github.com/repos/caiorrs/pulse",
+    "created_at": "2017-05-16T19:46:32Z",
+    "updated_at": "2017-05-16T19:46:34Z",
+    "language": "JavaScript"
+  }
+]

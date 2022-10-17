@@ -15,12 +15,7 @@ const produto = {
     ]
 };
 
-//   const fotos = produto.fotos;
 
-// Sem destructuring:
-const primeiraFotoSemDestructuring = fotos[0];
-
-// Inicie o destructuring na linha abaixo ->
 //resposta:
 const [primeiraFoto] = produto.fotos
 
@@ -39,15 +34,9 @@ const produto1 = {
     }
 };
 
-// Sem destructuring:
-const nomeSemDestructuring = produto1.nome;
-const fotoPrincipalSemDestructuring = produto1.fotos.fotoPrincipal;
-
-// Inicie o destructuring na linha abaixo ->
 //resposta: NAO CONSEGUI FZR
-const [{ principalFoto }, nomeProduto] = produto1.fotos && produto1.nome
-console.log(principalFoto)
-console.log(nomeProduto)
+const { principalFoto: fotos, nomeProduto: nome} = produto1
+
 
 
 // Em uma página de comparação de produtos no e-commerce, você precisa extrair a foto principal de cada produto. Mas putz, se você 
@@ -68,11 +57,5 @@ const segundoProduto = {
     }
 };
 
-// Sem destructuring:
-const fotoDoPrimeiroProdutoSemDestructuring = primeiroProduto.fotos.fotoPrincipal;
-const fotoDoSegundoProdutoSemDestructuring = segundoProduto.fotos.fotoPrincipal;
-
-// Inicie o destructuring na linha abaixo ->
-
 //resposta: NAO CONSEGUI FZR
-
+const {fotos: tdsFts } = {primeiroProduto, segundoProduto}
