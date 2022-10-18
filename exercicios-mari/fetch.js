@@ -28,7 +28,7 @@ const findRepo = (id) => {
 }
 
 
-//numero 5: adicionar uma nova propriedade a um repositório "followers", que deve ser um número, toda vez que tentar adicionar a propriedade deve-se ou inicializá-la com 1 ou somar 1 ao valor existente
+//numero 5: 
 const findRepo2 = (id) => {
     const foundRepo2 = data.filter(elem => elem.id === id)
     const newItem = foundRepo2.map((element) => {
