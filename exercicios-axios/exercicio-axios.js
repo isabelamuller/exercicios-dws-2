@@ -21,6 +21,8 @@ const campos = async () => {
     })
     return getMapping;
 }
+const teste1 = await campos()
+console.log(teste1)
 
 // numero 3:
 
@@ -41,6 +43,8 @@ const splitLanguages = async () => {
     }, { isJava: [], isNotJava: [] })
     return splittingLanguages;
 }
+const teste2 = await splitLanguages()
+console.log(teste2)
 
 //concatenar as duas arrays:
 const newArray = async () => {
@@ -48,6 +52,8 @@ const newArray = async () => {
     const concatLanguages = getSplittingLanguages.isJava.concat(getSplittingLanguages.isNotJava)
     return concatLanguages;
 }
+const teste3 = await newArray()
+console.log(teste3)
 
 // retornar o repo pelo id:
 const findRepo = async (id) => {
@@ -55,6 +61,7 @@ const findRepo = async (id) => {
     const foundRepo = getRequest.find(elem => elem.id === id);
     foundRepo ? console.log(foundRepo) : console.log('ID não encontrado');
 }
+findRepo(471869519)
 
 // adicionar uma nova propriedade a um repositório "followers", que deve ser um número, toda vez que tentar adicionar a propriedade deve-se ou inicializá-la com 1 ou somar 1 ao valor existente
 const findRepo2 = async (id) => {
@@ -68,11 +75,10 @@ const findRepo2 = async (id) => {
       });
       return newItem
 }
-const teste = await findRepo2(471869519)
-console.log(teste)
+const teste5 = await findRepo2(471869519)
+console.log(teste5)
 
-
-// Fazer o console.log de todos nomes de projetos que utilizam JavaScript
+// fazer o console.log de todos nomes de projetos que utilizam JavaScript
 const jsProjects = async () => {
     const getRequest = await campos();
     const jsOnly = getRequest.filter(value => value.language === "JavaScript").map((value) => {
@@ -81,3 +87,5 @@ const jsProjects = async () => {
     })
     return jsOnly;
 }
+const teste6 = await jsProjects()
+console.log(teste6)
